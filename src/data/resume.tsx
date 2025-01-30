@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon, Play } from "lucide-react";
+import { HomeIcon, NotebookIcon, Play, GalleryVerticalEnd } from "lucide-react";
 import { FaFileAlt, FaVideo, FaPencilRuler, FaUserAlt, FaProjectDiagram, FaChalkboardTeacher, FaCameraRetro, FaMusic, FaEdit } from "react-icons/fa";
 import { AiFillLayout, AiOutlineTeam } from "react-icons/ai";
 import { MdOutlineEventNote, MdOutlineContentPaste, MdOutlineDesignServices } from "react-icons/md";
@@ -91,7 +91,7 @@ export const DATA = {
 
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "/gallery", icon: GalleryVerticalEnd, label: "Gallery" },
   ],
   contact: {
     email: "chiragaggarwal5k@gmail.com",
@@ -100,21 +100,21 @@ export const DATA = {
       GitHub: {
         name: "GitHub",
         url: "https://github.com/ChiragAgg5k",
-        icon: Icons.github,
+        icon: Icons.youtube,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/chiragagg5k/",
-        icon: Icons.linkedin,
+        icon: Icons.instagram,
 
         navbar: true,
       },
       X: {
         name: "X",
         url: "https://x.com/ChiragAgg5k",
-        icon: Icons.x,
+        icon: Icons.facebook,
 
         navbar: true,
       },
