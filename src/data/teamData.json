@@ -1,131 +1,130 @@
 {
-    "leader": {
-      "id": 1,
-      "name": "John Doe",
-      "division": "Manajemen Proyek",
+  "leader": {
+    "id": 1,
+    "name": "John Doe",
+    "division": "Ketua",
+    "image": "https://via.placeholder.com/150"
+  },
+  "mentor": {
+    "id": 2,
+    "name": "Jane Smith",
+    "division": "Pembina",
+    "image": "https://via.placeholder.com/150"
+  },
+  "members": [
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "division": "Devisi Desain",
       "image": "https://via.placeholder.com/150"
     },
-    "mentor": {
-      "id": 2,
-      "name": "Jane Smith",
-      "division": "Desain Grafis",
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "division": "Devisi Talent",
       "image": "https://via.placeholder.com/150"
     },
-    "members": [
-      {
-        "id": 3,
-        "name": "Alice Johnson",
-        "division": "Manajemen Proyek",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 4,
-        "name": "Bob Brown",
-        "division": "Desain Grafis",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 5,
-        "name": "Charlie Davis",
-        "division": "Pengembangan Web",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 6,
-        "name": "Eva Green",
-        "division": "Manajemen Proyek",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 7,
-        "name": "Frank Wilson",
-        "division": "Pengembangan Mobile",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 8,
-        "name": "Grace Lee",
-        "division": "Analisis Data",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 9,
-        "name": "Henry Clark",
-        "division": "Desain UI/UX",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 10,
-        "name": "Ivy Martinez",
-        "division": "Manajemen Produk",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 11,
-        "name": "Jack White",
-        "division": "Pengembangan Backend",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 12,
-        "name": "Karen Harris",
-        "division": "Pengembangan Frontend",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 13,
-        "name": "Leo King",
-        "division": "Keamanan Siber",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 14,
-        "name": "Mia Scott",
-        "division": "Manajemen Konten",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 15,
-        "name": "Nathan Young",
-        "division": "Pengembangan Fullstack",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 16,
-        "name": "Olivia Allen",
-        "division": "Desain Grafis",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 17,
-        "name": "Paul Hall",
-        "division": "Manajemen Proyek",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 18,
-        "name": "Quincy Adams",
-        "division": "Pengembangan Web",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 19,
-        "name": "Rachel Green",
-        "division": "Analisis Data",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 20,
-        "name": "Steve Taylor",
-        "division": "Pengembangan Mobile",
-        "image": "https://via.placeholder.com/150"
-      },
-      {
-        "id": 21,
-        "name": "Tina Moore",
-        "division": "Desain UI/UX",
-        "image": "https://via.placeholder.com/150"
-      }
-    ]
-  }
-  
+    {
+      "id": 5,
+      "name": "Charlie Davis",
+      "division": "Devisi Editor Video",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "Eva Green",
+      "division": "Devisi Editor Youtube",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "name": "Frank Wilson",
+      "division": "Devisi Website",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "name": "Grace Lee",
+      "division": "Devisi Dokumentasi dan Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "name": "Henry Clark",
+      "division": "Devisi Desain",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "name": "Ivy Martinez",
+      "division": "Devisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 11,
+      "name": "Jack White",
+      "division": "Devisi Editor Video",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 12,
+      "name": "Karen Harris",
+      "division": "Devisi Editor Youtube",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 13,
+      "name": "Leo King",
+      "division": "Devisi Website",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 14,
+      "name": "Mia Scott",
+      "division": "Devisi Dokumentasi dan Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 15,
+      "name": "Nathan Young",
+      "division": "Devisi Desain",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 16,
+      "name": "Olivia Allen",
+      "division": "Devisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 17,
+      "name": "Paul Hall",
+      "division": "Devisi Editor Video",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 18,
+      "name": "Quincy Adams",
+      "division": "Devisi Editor Youtube",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 19,
+      "name": "Rachel Green",
+      "division": "Devisi Website",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 20,
+      "name": "Steve Taylor",
+      "division": "Devisi Dokumentasi dan Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 21,
+      "name": "Tina Moore",
+      "division": "Devisi Desain",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
