@@ -1,10 +1,11 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon, Play, GalleryVerticalEnd } from "lucide-react";
+import { HomeIcon, NotebookIcon, Play, GalleryVerticalEnd, TrophyIcon } from "lucide-react";
 import { FaFileAlt, FaVideo, FaPencilRuler, FaUserAlt, FaProjectDiagram, FaChalkboardTeacher, FaCameraRetro, FaMusic, FaEdit } from "react-icons/fa";
 import { AiFillLayout, AiOutlineTeam } from "react-icons/ai";
 import { MdOutlineEventNote, MdOutlineContentPaste, MdOutlineDesignServices } from "react-icons/md";
 import { RiTeamLine, RiComputerLine } from "react-icons/ri";
 import { IoMdColorPalette } from "react-icons/io";
+import { title } from "process";
 
 export const DATA = {
   name: "ADB Creative",
@@ -92,6 +93,8 @@ export const DATA = {
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/gallery", icon: GalleryVerticalEnd, label: "Gallery" },
+    { href: "/achievements", icon: TrophyIcon, label: "Achievements" },
+
   ],
   contact: {
     email: "chiragaggarwal5k@gmail.com",
@@ -459,5 +462,17 @@ export const DATA = {
       location: "Taj City Center, Gurugram",
       image: "/achievements/luminous.jpg",
     },
+    {
+      title: "Festival dan lomba Seni Siswa Nasional",
+      dates: "30 April 2024",
+      location: "Tegal",
+      image: "/achievements/lombaSeniSiswaNasional.jpg"
+    },
+    {
+      title: "Festival dan lomba Seni Siswa Nasional",
+      dates: "30 April 2024",
+      location: "Tegal",
+      image: "/achievements/lombaSeniSiswaNasional2.jpg"
+    }
   ],
 } as const;

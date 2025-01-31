@@ -226,8 +226,8 @@ export default function Page() {
                     Achievements
                   </h2>
                   <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    From going to Vietnam to participating in Hackathons, I like
-                    to keep exploring and learning new things.
+                  Dari menciptakan konten kreatif hingga memenangkan kompetisi, kami terus 
+                  berinovasi dan mengembangkan kreativitas tanpa batas.
                   </p>
                 </div>
               </div>
