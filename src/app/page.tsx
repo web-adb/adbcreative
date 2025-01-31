@@ -147,12 +147,12 @@ export default function Page() {
               <div className="flex flex-col items-center justify-center space-y-4 text-center">
                 <div className="space-y-2">
                   <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                    Projects
+                    Karya Kami
                   </h2>
                   <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    I like to build projects. I have built a lot of projects,
-                    here are just some of my{" "}
-                    <span className="font-bold">favorites</span>.
+                    Kami senang menciptakan karya kreatif. Dari desain hingga
+                    produksi, berikut adalah beberapa{" "}
+                    <span className="font-bold">karya terbaik</span> kami.
                   </p>
                 </div>
               </div>
@@ -184,14 +184,14 @@ export default function Page() {
               <div className="flex flex-col items-center justify-center space-y-4 text-center">
                 <div className="space-y-2">
                   <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                    Positions of Responsibility
+                    Peran & Tanggung Jawab
                   </h2>
                   <p className="text-muted-foreground md:text-base/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    I believe in the power of collaboration and teamwork. So I
-                    like to keep myself busy while working in different
-                    <span className="font-bold"> communities</span> and{" "}
-                    <span className="font-bold">projects</span>. Here are some
-                    of the positions I have held.
+                    Kami percaya pada kekuatan kolaborasi dan kreativitas. Oleh
+                    karena itu, kami aktif dalam berbagai{" "}
+                    <span className="font-bold">komunitas</span> dan{" "}
+                    <span className="font-bold">proyek</span>. Berikut adalah
+                    beberapa peran yang telah kami jalankan.
                   </p>
                 </div>
               </div>
@@ -222,13 +222,16 @@ export default function Page() {
             <BlurFade delay={BLUR_FADE_DELAY * 13}>
               <div className="flex flex-col items-center justify-center space-y-4 text-center">
                 <div className="space-y-2">
-                  <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                    Achievements
-                  </h2>
-                  <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Dari menciptakan konten kreatif hingga memenangkan kompetisi, kami terus 
-                  berinovasi dan mengembangkan kreativitas tanpa batas.
-                  </p>
+                  <Link href="/achievements" className="block">
+                    <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
+                      Achievements
+                    </h2>
+                    <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                      Dari menciptakan konten kreatif hingga memenangkan
+                      kompetisi, kami terus berinovasi dan mengembangkan
+                      kreativitas tanpa batas.
+                    </p>
+                  </Link>
                 </div>
               </div>
             </BlurFade>
