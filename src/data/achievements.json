@@ -1,0 +1,52 @@
+{
+    "achievements": [
+      {
+        "title": "Summer Immersion in Vietnam",
+        "dates": "July 2024",
+        "location": "FPT University, Da Nang, Vietnam",
+        "image": "/achievements/summer-immersion.jpeg"
+      },
+      {
+        "title": "Github Constellation",
+        "dates": "June 2024",
+        "location": "Bangalore",
+        "image": "/achievements/github-constellation.jpeg"
+      },
+      {
+        "title": "Hackaccino",
+        "dates": "April 2024",
+        "location": "CSI Bennett University",
+        "image": "/achievements/hackaccino.jpeg"
+      },
+      {
+        "title": "HackWithDelhi",
+        "dates": "April 2024",
+        "location": "GL Bajaj Institute of Technology and Management",
+        "image": "/achievements/hackwithdelhi.jpeg"
+      },
+      {
+        "title": "HackCBS",
+        "dates": "November 2023",
+        "location": "Shaheed Sukhdev College of Business Studies",
+        "image": "/achievements/hackcbs.jpeg"
+      },
+      {
+        "title": "Luminous TechnoX Hackathon",
+        "dates": "December 2023",
+        "location": "Taj City Center, Gurugram",
+        "image": "/achievements/luminous.jpg"
+      },
+      {
+        "title": "Festival dan lomba Seni Siswa Nasional",
+        "dates": "30 April 2024",
+        "location": "Tegal",
+        "image": "/achievements/lombaSeniSiswaNasional.jpg"
+      },
+      {
+        "title": "Festival dan lomba Seni Siswa Nasional",
+        "dates": "30 April 2024",
+        "location": "Tegal",
+        "image": "/achievements/lombaSeniSiswaNasional2.jpg"
+      }
+    ]
+  }

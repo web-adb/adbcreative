@@ -105,11 +105,11 @@ export const DATA = {
         url: "https://github.com/ChiragAgg5k",
         icon: Icons.youtube,
 
-        navbar: true,
+        navbar: false,
       },
-      LinkedIn: {
-        name: "LinkedIn",
-        url: "https://www.linkedin.com/in/chiragagg5k/",
+      Instagram: {
+        name: "Instagram",
+        url: "https://www.instagram.com/adbcreative_team/",
         icon: Icons.instagram,
 
         navbar: true,
@@ -119,14 +119,14 @@ export const DATA = {
         url: "https://x.com/ChiragAgg5k",
         icon: Icons.facebook,
 
-        navbar: true,
+        navbar: false,
       },
       email: {
         name: "Send Email",
         url: "mailto:chiragaggarwal5k@gmail.com",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
