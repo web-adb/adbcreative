@@ -5,6 +5,11 @@ import achievementsData from "@/data/achievements.json"; // Sesuaikan path-nya
 const Achievements = () => {
   const { achievements } = achievementsData; // Destructure data dari JSON
 
+  // Urutkan data berdasarkan tanggal (dari yang terbaru ke terlama)
+  const sortedAchievements = achievements.sort((a, b) => {
+    return new Date(b.dates) - new Date(a.dates);
+  });
+
   return (
     <TracingBeam className="px-6">
       <div className="mx-auto w-full space-y-8">
@@ -33,7 +38,7 @@ const Achievements = () => {
         </div>
         {/* Tambahan Card dengan 2 Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {achievements.map((achievement, index) => (
+          {sortedAchievements.map((achievement, index) => (
             <div
               key={index}
               className="flex flex-col p-6 bg-white rounded-lg shadow-lg"
