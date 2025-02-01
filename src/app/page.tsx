@@ -260,9 +260,11 @@ export default function Page() {
           <div className="grid items-center justify-center gap-4 px-4 text-center md:px-6 w-full py-12">
             <BlurFade delay={BLUR_FADE_DELAY * 16}>
               <div className="space-y-0">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  Get in Touch
-                </h2>
+                <Link href="/form" className="block">
+                  <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
+                    Get in Touch
+                  </h2>
+                </Link>
                 <ContactMeForm />
                 <p className="mx-auto max-w-[600px] text-muted-foreground text-sm/relaxed md:text-base/relaxed">
                   Or just want to have a casual chat? you can just shoot me a dm
