@@ -102,7 +102,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/ChiragAgg5k",
+        url: "https://github.com/",
         icon: Icons.youtube,
 
         navbar: false,
