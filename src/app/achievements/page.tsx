@@ -7,7 +7,7 @@ const Achievements = () => {
 
   // Urutkan data berdasarkan tanggal (dari yang terbaru ke terlama)
   const sortedAchievements = achievements.sort((a, b) => {
-    return new Date(b.dates) - new Date(a.dates);
+    return new Date(b.dates).getTime() - new Date(a.dates).getTime();
   });
 
   return (
