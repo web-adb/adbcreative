@@ -1,129 +1,255 @@
 {
-  "leader": {
+  "mentor": {
     "id": 1,
-    "name": "John Doe",
+    "name": "Kusmaidi, S.Pd",
     "division": "Ketua",
     "image": "https://via.placeholder.com/150"
   },
-  "mentor": {
+  "leader": {
     "id": 2,
-    "name": "Jane Smith",
+    "name": "Nadia Meilani",
     "division": "Pembina",
     "image": "https://via.placeholder.com/150"
   },
   "members": [
     {
       "id": 3,
-      "name": "Alice Johnson",
-      "division": "Devisi Desain",
+      "name": "Nayla Niswa Azzura",
+      "division": "Divisi Desain",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 4,
-      "name": "Bob Brown",
-      "division": "Devisi Talent",
+      "name": "Mikail Djibran",
+      "division": "Divisi Desain",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 5,
-      "name": "Charlie Davis",
-      "division": "Devisi Editor Video",
+      "name": "Abyan Dimas R Mussyafa",
+      "division": "Divisi Website",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 6,
-      "name": "Eva Green",
-      "division": "Devisi Editor Youtube",
+      "name": "Ahmad Attaqi Farrel Fausta",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 7,
-      "name": "Frank Wilson",
-      "division": "Devisi Website",
+      "name": "Jihan Noviana",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 8,
-      "name": "Grace Lee",
-      "division": "Devisi Dokumentasi dan Drive",
+      "name": "Yusuf Bahtiar",
+      "division": "Divisi Dokumentasi & Drive",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 9,
-      "name": "Henry Clark",
-      "division": "Devisi Desain",
+      "name": "Reykhan Adi Nugroho",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 10,
-      "name": "Ivy Martinez",
-      "division": "Devisi Talent",
+      "name": "Suci Arum Safitri",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 11,
-      "name": "Jack White",
-      "division": "Devisi Editor Video",
+      "name": "Nadia Mumtazah Taufik",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 12,
-      "name": "Karen Harris",
-      "division": "Devisi Editor Youtube",
+      "name": "Rizziq Fadhilah Akbar",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 13,
-      "name": "Leo King",
-      "division": "Devisi Website",
+      "name": "M. Rizki Fadillah",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 14,
-      "name": "Mia Scott",
-      "division": "Devisi Dokumentasi dan Drive",
+      "name": "M. Ali Mustofa",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 15,
-      "name": "Nathan Young",
-      "division": "Devisi Desain",
+      "name": "Niken Putri Khyreina",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 16,
-      "name": "Olivia Allen",
-      "division": "Devisi Talent",
+      "name": "Andra Rizky Fauzi",
+      "division": "Divisi Editor",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 17,
-      "name": "Paul Hall",
-      "division": "Devisi Editor Video",
+      "name": "M. Lukman Kamaludin",
+      "division": "Divisi Editor",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 18,
-      "name": "Quincy Adams",
-      "division": "Devisi Editor Youtube",
+      "name": "Rinanto",
+      "division": "Divisi Dokumentasi & Drive",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 19,
-      "name": "Rachel Green",
-      "division": "Devisi Website",
+      "name": "Rifki Haryadi",
+      "division": "Divisi Dokumentasi & Drive",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 20,
-      "name": "Steve Taylor",
-      "division": "Devisi Dokumentasi dan Drive",
+      "name": "Anjas Rishartanto",
+      "division": "Divisi Dokumentasi & Drive",
       "image": "https://via.placeholder.com/150"
     },
     {
       "id": 21,
-      "name": "Tina Moore",
-      "division": "Devisi Desain",
+      "name": "Robi Mustofa",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 22,
+      "name": "Shintia Armi Sopti",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 23,
+      "name": "Bintang Artaditiya Karsa",
+      "division": "Divisi Editor",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 24,
+      "name": "Dina Cahya Permadani",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 25,
+      "name": "M. Ramadhani",
+      "division": "Divisi Desain",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 26,
+      "name": "Iqbal Maulana Syauqi",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 27,
+      "name": "A. Pikroh Al Idris",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 28,
+      "name": "M. Arsyad Al Kahfi",
+      "division": "Divisi Website",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 29,
+      "name": "Riani Witjaksana",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 30,
+      "name": "Citra Ayu Lestari",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 31,
+      "name": "Moh. Nur Alim",
+      "division": "Divisi Desain",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 32,
+      "name": "Rayhana Salsabila",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 33,
+      "name": "M. Ali Fatkhan",
+      "division": "Divisi Editor",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 34,
+      "name": "M. Hafidz Nasrullah",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 35,
+      "name": "Adhitia Dwi Cahyani",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 36,
+      "name": "Navisya Amalia Zahra",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 37,
+      "name": "Cantika Juliani",
+      "division": "Divisi Talent",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 38,
+      "name": "M Rafi Akmal A",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 39,
+      "name": "Rizqi Irsyad Setyawan",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 40,
+      "name": "Danur Fauzan",
+      "division": "Divisi Dokumentasi & Drive",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 41,
+      "name": "Akhmad Subekhan",
+      "division": "Divisi Desain",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 42,
+      "name": "Adli Febriyansyah",
+      "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
     }
   ]

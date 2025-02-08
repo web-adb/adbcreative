@@ -53,7 +53,7 @@ export default function Gallery() {
           {Object.entries(groupedMembers).map(([division, members]) => (
             <div key={division} className="space-y-6">
               <BlurFadeText
-                text={`Divisi ${division}`}
+                text={`${division}`}
                 className="text-xl font-bold"
               />
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
