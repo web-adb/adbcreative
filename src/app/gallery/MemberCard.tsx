@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 interface MemberProps {
@@ -12,8 +13,13 @@ interface MemberProps {
 export default function MemberCard({ member }: MemberProps) {
   return (
     <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg">
-      <Avatar className="size-24 mx-auto border-2 border-blue-500">
-        <AvatarImage src={member.image} alt={member.name} />
+      <Link href={`/gallery/${member.id}`} className="block">
+      <Avatar className="size-24 mx-auto border-2 border-blue-500 overflow-hidden">
+        <AvatarImage
+          className="w-full h-full object-cover"
+          src={member.image}
+          alt={member.name}
+        />
         <AvatarFallback>{member.name[0]}</AvatarFallback>
       </Avatar>
       <h4 className="mt-4 text-lg font-bold text-center text-blue-900 dark:text-blue-300">
@@ -24,6 +30,7 @@ export default function MemberCard({ member }: MemberProps) {
           {member.division}
         </span>
       </div>
+    </Link>
     </div>
   );
 }
