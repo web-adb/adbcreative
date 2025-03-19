@@ -16,19 +16,19 @@
       "id": 3,
       "name": "Nayla Niswa Azzura",
       "division": "Divisi Desain",
-      "image": "/anggota/nayla.JPG"
+      "image": "/anggota/16.webp"
     },
     {
       "id": 4,
       "name": "Mikail Djibran",
       "division": "Divisi Desain",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/8.webp"
     },
     {
       "id": 5,
       "name": "Abyan Dimas R Mussyafa",
       "division": "Divisi Website",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/4.webp"
     },
     {
       "id": 6,
@@ -40,7 +40,7 @@
       "id": 7,
       "name": "Jihan Noviana",
       "division": "Divisi Talent",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/7.webp"
     },
     {
       "id": 8,
@@ -64,43 +64,43 @@
       "id": 11,
       "name": "Nadia Mumtazah Taufik",
       "division": "Divisi Talent",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/6.webp"
     },
     {
       "id": 12,
       "name": "Rizziq Fadhilah Akbar",
       "division": "Divisi Talent",
-      "image": "/anggota/rizziq.JPG"
+      "image": "/anggota/20.webp"
     },
     {
       "id": 13,
       "name": "M. Rizki Fadillah",
       "division": "Divisi Talent",
-      "image": "/anggota/rizki.JPG"
+      "image": "/anggota/14.webp"
     },
     {
       "id": 14,
       "name": "M. Ali Mustofa",
       "division": "Divisi Talent",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/1.webp"
     },
     {
       "id": 15,
       "name": "Niken Putri Khyreina",
       "division": "Divisi Talent",
-      "image": "/anggota/niken.JPG"
+      "image": "/anggota/10.webp"
     },
     {
       "id": 16,
       "name": "Andra Rizky Fauzi",
       "division": "Divisi Editor",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/2.webp"
     },
     {
       "id": 17,
       "name": "M. Lukman Kamaludin",
       "division": "Divisi Editor",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/24.webp"
     },
     {
       "id": 18,
@@ -118,13 +118,13 @@
       "id": 20,
       "name": "Anjas Rishartanto",
       "division": "Divisi Dokumentasi & Drive",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/5.webp"
     },
     {
       "id": 21,
       "name": "Robi Mustofa",
       "division": "Divisi Dokumentasi & Drive",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/30.webp"
     },
     {
       "id": 22,
@@ -136,19 +136,19 @@
       "id": 23,
       "name": "Bintang Artaditiya Karsa",
       "division": "Divisi Editor",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/31.webp"
     },
     {
       "id": 24,
       "name": "Dina Cahya Permadani",
       "division": "Divisi Dokumentasi & Drive",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/25.webp"
     },
     {
       "id": 25,
       "name": "M. Ramadhani",
       "division": "Divisi Desain",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/21.webp"
     },
     {
       "id": 26,
@@ -160,13 +160,13 @@
       "id": 27,
       "name": "A. Pikroh Al Idris",
       "division": "Divisi Dokumentasi & Drive",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/23.web"
     },
     {
       "id": 28,
       "name": "M. Arsyad Al Kahfi",
       "division": "Divisi Website",
-      "image": "/anggota/arsyad.JPG"
+      "image": "/anggota/22.webp"
     },
     {
       "id": 29,
@@ -202,7 +202,7 @@
       "id": 34,
       "name": "M. Hafidz Nasrullah",
       "division": "Divisi Dokumentasi & Drive",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/19.webp"
     },
     {
       "id": 35,
@@ -214,13 +214,13 @@
       "id": 36,
       "name": "Navisya Amalia Zahra",
       "division": "Divisi Talent",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/29.webp"
     },
     {
       "id": 37,
       "name": "Cantika Juliani",
       "division": "Divisi Talent",
-      "image": "https://via.placeholder.com/150"
+      "image": "/anggota/28.webp"
     },
     {
       "id": 38,
@@ -251,6 +251,12 @@
       "name": "Adli Febriyansyah",
       "division": "Divisi Talent",
       "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 43,
+      "name": "Nur Muhammad Fauzan",
+      "division": "Divisi Editor",
+      "image": "/anggota/3.webp"
     }
   ]
 }
